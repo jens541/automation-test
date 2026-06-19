@@ -7,3 +7,4 @@
 [2026-06-16] [07:05] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP kræver interaktiv OAuth re-autorisering (kan ikke gennemføres i ubemandet session)
 [2026-06-17] [07:05] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP kræver interaktiv OAuth re-autorisering (kan ikke gennemføres i ubemandet session)
 [2026-06-18] [07:05] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP kræver interaktiv OAuth re-autorisering (kan ikke gennemføres i ubemandet session)
+[2026-06-19] [07:03] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP ikke tilgængelig (ingen mcp__gmail__* værktøjer; OAuth re-autorisering påkrævet)
