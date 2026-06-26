@@ -14,3 +14,4 @@
 [2026-06-23] [07:04] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP ikke tilgængelig (ingen mcp__gmail__* værktøjer; OAuth re-autorisering påkrævet)
 [2026-06-24] [07:04] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP ikke tilgængelig (ingen mcp__gmail__* værktøjer; OAuth re-autorisering påkrævet)
 [2026-06-25] [07:04] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP ikke tilgængelig (ingen mcp__gmail__* værktøjer; OAuth re-autorisering påkrævet)
+[2026-06-26] [07:04] — Fundet: ? ulæste mails. Afsendere: []. Gmail-status: FEJL — Gmail MCP ikke tilgængelig (ingen mcp__gmail__* værktøjer; OAuth re-autorisering påkrævet)
